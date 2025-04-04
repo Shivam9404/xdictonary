@@ -19,7 +19,7 @@ function Directory (){
 
     return(
         <div>
-            <h1>Dictonary App</h1>
+            <h1>Dictionary App</h1>
             <div>
                 <input type="text" 
                 placeholder="Search for a word..." 
